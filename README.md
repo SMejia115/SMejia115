@@ -1,4 +1,5 @@
 
+![IMG DE PORTADA](https://raw.githubusercontent.com/SMejia115/SMejia115/main/Images/portada.png)
 
 - 👋 Hi, I’m Santiago Mejía
 - 👀 I’m interested in ...
